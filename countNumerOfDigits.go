@@ -1,4 +1,6 @@
-package main
+// Given a number N, the task is to return the count of digits in this number.
+
+package dsa
 
 import "fmt"
 
