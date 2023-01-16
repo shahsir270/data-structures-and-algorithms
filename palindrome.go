@@ -1,6 +1,6 @@
 // Given an integer, write a function that returns true if the given number is palindrome, else false. For example, 12321 is palindrome, but 1451 is not palindrome.
 
-package dsa
+package main
 
 import "fmt"
 
